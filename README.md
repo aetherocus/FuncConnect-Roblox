@@ -3,7 +3,7 @@ For checking if a function ends and dont worry about memory leaks since
 FuncConnect will automatically clean up connections after the function is done.
 
 Example script:
-```
+```luau
 local FuncConnect = require(Path-To-FuncConnect)
 
 local function Test(String : string)
