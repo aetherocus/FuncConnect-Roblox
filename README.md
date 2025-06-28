@@ -1,3 +1,4 @@
+## FuncConnect
 For checking if a function ends and dont worry about memory leaks since
 FuncConnect will automatically clean up connections after the function is done.
 
