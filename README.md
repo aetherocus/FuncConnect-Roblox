@@ -17,3 +17,6 @@ newConnection.Ended:Connect(function(result)
     print(result)
 end)
 ```
+
+## Credit:
+[GoodSignal](https://gist.github.com/stravant/b75a322e0919d60dde8a0316d1f09d2f)
