@@ -16,7 +16,4 @@ local newConnection = FuncConnect.new(Test, "WORLD!")
 newConnection.Ended:Connect(function(result)
     print(result)
 end)
-
--> Output: "HI! WORLD!"
--> Output: "Tested!"
 ```
